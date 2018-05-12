@@ -21,6 +21,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/2364
     wikipedia: http://en.wikipedia.org/wiki/Ian_Maclaren
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/18063#Rabbi-Saunderson
 gutenberg_issued: '2006-03-28'
 gutenberg_type: Text
 identifiers:
